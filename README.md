@@ -1,16 +1,37 @@
-## Hi there 👋
+```lua
+• 1 year of experience
+• GMT+3
+• Available 6+ hours daily
 
-<!--
-**grneysf/grneysf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- OOP
+- ECS
+-  --!strict only
+- System design
+- Reusable modules
+- Secure remote communication
+- Client/server architecture
+- Memory optimization
+- Debugging and profiling
 
-Here are some ideas to get you started:
+### Networking
+- Blink (codegen networking)
+- Packet
+- Signal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data
+- ProfileStore
+- DataService2
+
+### Resource Management
+- Maid
+- Trove
+- Janitor
+- Promises
+
+### Experience 
+- Built server-authoritative game systems.
+- Implemented client-side prediction and interpolation.
+- Designed data-driven networking to minimize replication.
+- Optimized client/server performance for large numbers of entities.
+```
