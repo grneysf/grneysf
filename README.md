@@ -1,6 +1,6 @@
 ```lua
 • 1 year of experience
-• GMT+3
+• UTC +2
 • Available 6+ hours daily
 
 ### Skills
